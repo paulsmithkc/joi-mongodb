@@ -10,13 +10,13 @@ npm install joi-mongodb
 In your application entry point (index.js/server.js/app.js):
 ```
 const Joi = require('joi');
-require('./index')(Joi);
+require('joi-mongodb')(Joi);
 ```
 
 Then it can be used just like any other Joi type:
 ```
 const schema = Joi.object({
-  id: Joi.objectId(),
+  _id: Joi.objectId(),
   name: Joi.string(),
   date: Joi.date(),
 });
