@@ -1,6 +1,6 @@
 {
   "name": "joi-mongodb",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "A simple Joi validator for MongoDB ObjectId.",
   "keywords": [
     "joi",
@@ -24,6 +24,10 @@
   },
   "homepage": "https://github.com/paulsmithkc/joi-mongodb#readme",
   "devDependencies": {
+    "joi": "^17.4.2",
+    "mongodb": "^4.1.2"
+  },
+  "peerDependencies": {
     "joi": "^17.4.2",
     "mongodb": "^4.1.2"
   }
