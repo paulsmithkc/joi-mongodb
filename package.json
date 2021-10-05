@@ -9,8 +9,9 @@
     "mongoose",
     "objectid",
     "oid",
-    "id",
-    "nanoid"
+    "validator",
+    "extension",
+    "plugin"
   ],
   "main": "index.js",
   "author": "Paul Smith",

@@ -28,3 +28,5 @@ const schema = Joi.object({
 * [joi-objectid-validator](https://www.npmjs.com/package/joi-objectid-validator) 
 * [joi-mongodb-objectid](https://www.npmjs.com/package/joi-mongodb-objectid) 
 * [joi-mongoose-objectid](https://www.npmjs.com/package/joi-mongoose-objectid)
+* [joi-objectid-extension](https://www.npmjs.com/package/joi-objectid-extension)
+* [object-id-joi-extension](https://www.npmjs.com/package/object-id-joi-extension)
