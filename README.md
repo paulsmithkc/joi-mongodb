@@ -21,3 +21,10 @@ const schema = Joi.object({
   date: Joi.date(),
 });
 ```
+
+## Similar Packages
+* [joi-objectid](https://www.npmjs.com/package/joi-objectid)
+* [joi-oid](https://www.npmjs.com/package/joi-oid)
+* [joi-objectid-validator](https://www.npmjs.com/package/joi-objectid-validator) 
+* [joi-mongodb-objectid](https://www.npmjs.com/package/joi-mongodb-objectid) 
+* [joi-mongoose-objectid](https://www.npmjs.com/package/joi-mongoose-objectid)
