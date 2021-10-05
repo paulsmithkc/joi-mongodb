@@ -1,12 +1,15 @@
 {
   "name": "joi-mongodb",
   "version": "0.0.1",
-  "description": "a simple validator for MongoDB ObjectIds",
+  "description": "A simple Joi validator for MongoDB ObjectId.",
   "keywords": [
     "joi",
+    "mongo",
     "mongodb",
+    "mongoose",
     "objectid",
     "oid",
+    "id",
     "nanoid"
   ],
   "main": "index.js",
