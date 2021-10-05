@@ -1,0 +1,27 @@
+{
+  "name": "joi-mongodb",
+  "version": "0.0.1",
+  "description": "a simple validator for MongoDB ObjectIds",
+  "keywords": [
+    "joi",
+    "mongodb",
+    "objectid",
+    "oid",
+    "nanoid"
+  ],
+  "main": "index.js",
+  "author": "Paul Smith",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/paulsmithkc/joi-mongodb.git"
+  },
+  "bugs": {
+    "url": "https://github.com/paulsmithkc/joi-mongodb/issues"
+  },
+  "homepage": "https://github.com/paulsmithkc/joi-mongodb#readme",
+  "devDependencies": {
+    "joi": "^17.4.2",
+    "mongodb": "^4.1.2"
+  }
+}
