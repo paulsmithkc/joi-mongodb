@@ -4,14 +4,12 @@
   "description": "A simple Joi validator for MongoDB ObjectId.",
   "keywords": [
     "joi",
-    "mongo",
     "mongodb",
-    "mongoose",
     "objectid",
     "oid",
+    "custom",
     "validator",
-    "extension",
-    "plugin"
+    "extension"
   ],
   "main": "index.js",
   "author": "Paul Smith",
