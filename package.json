@@ -1,7 +1,7 @@
 {
   "name": "joi-mongodb",
   "version": "1.0.1",
-  "description": "A simple Joi validator for MongoDB ObjectId.",
+  "description": "Joi custom validator for MongoDB ObjectId.",
   "keywords": [
     "joi",
     "mongodb",

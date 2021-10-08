@@ -1,5 +1,5 @@
 # joi-mongodb
-A simple Joi validator for MongoDB ObjectId.
+Joi custom validator for MongoDB ObjectId.
 
 ## Install
 ```
